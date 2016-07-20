@@ -1,0 +1,1 @@
+<h1>the purpose of this project is to style my previous blog</h1>
